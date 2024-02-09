@@ -8,6 +8,7 @@ const String forgetPassword = "Forget Password?";
 const String bottomLoginPageText = "Don't have a account?";
 const String signUpText = "Sign Up";
 const String loginSuccessText = "Login Successfully";
+const String example = "Example";
 
 // Create Account Strings
 
