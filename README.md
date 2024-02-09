@@ -1,16 +1,7 @@
-# test_app1
+# Login and Sign Up
 
-A new Flutter project.
+Login ad Sign Up Page in Flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Jaydeepsinh-Devda/login_signup_flutter_ui/assets/88308058/2df39bc4-8484-41ec-826d-bcfe539050c6" alt="Login Page UI" width="500" height="1000">
+<img src="https://github.com/Jaydeepsinh-Devda/login_signup_flutter_ui/assets/88308058/4c0bc0fd-3e69-4266-ba83-ab5020e959f2" alt="Login Page UI" width="500" height="1000">
